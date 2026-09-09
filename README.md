@@ -1,12 +1,12 @@
 # Blue-Whale-Harness
 
-[![Stars](https://img.shields.io/github/stars/leenkcool/Blue-Whale-Harness?style=flat-square)](https://github.com/leenkcool/Blue-Whale-Harness/stargazers) [![License](https://img.shields.io/badge/license-Apache--2.0-blue?style=flat-square)](./LICENSE) [![Last commit](https://img.shields.io/github/last-commit/leenkcool/Blue-Whale-Harness?style=flat-square)](https://github.com/leenkcool/Blue-Whale-Harness/commits/main) [![Plugins](https://img.shields.io/badge/repos-1960-orange?style=flat-square)](https://leenkcool.github.io) [![Online catalog](https://img.shields.io/badge/site-leenkool.github.io-brightgreen?style=flat-square)](https://leenkcool.github.io)
+[![Stars](https://img.shields.io/github/stars/leenkcool/Blue-Whale-Harness?style=flat-square)](https://github.com/leenkcool/Blue-Whale-Harness/stargazers) [![License](https://img.shields.io/badge/license-Apache--2.0-blue?style=flat-square)](./LICENSE) [![Last commit](https://img.shields.io/github/last-commit/leenkcool/Blue-Whale-Harness?style=flat-square)](https://github.com/leenkcool/Blue-Whale-Harness/commits/main) [![Plugins](https://img.shields.io/badge/repos-1963-orange?style=flat-square)](https://leenkcool.github.io) [![Online catalog](https://img.shields.io/badge/site-leenkool.github.io-brightgreen?style=flat-square)](https://leenkcool.github.io)
 
 > **DeepSeek Harness（DSH）插件总目录** — 收录 GitHub 上散落各处的 DSH 插件、Skill、MCP Server 与周边工具，逐个校验「是否为真插件」，并做成可搜索、可筛选、可导出的在线总表。
 
 🌐 **在线总表：[leenkcool.github.io](https://leenkcool.github.io)** — 中英文搜索、分类筛选、按 STAR 排序、CSV 导出。
 
-> 自动生成于 2026-09-04 ｜ 共 **1960** 个仓库 ｜ 真·DSH 插件 **1821** 个 | QQ Group:839509497 |Tg Group: [http://t.me/deepseekdsh](http://t.me/deepseekdsh)
+> 自动生成于 2026-09-09 ｜ 共 **1963** 个仓库 ｜ 真·DSH 插件 **1824** 个 | QQ Group:839509497 |Tg Group: [http://t.me/deepseekdsh](http://t.me/deepseekdsh)
 
 ### 怎么用
 
@@ -21,8 +21,8 @@
 
 ## 统计
 
-- 仓库总数：**1960**
-- 真·DSH 插件：**1821**
+- 仓库总数：**1963**
+- 真·DSH 插件：**1824**
 - 在线浏览：https://leenkcool.github.io （[中文版](https://leenkcool.github.io/plugins.zh.html) ｜ [English](https://leenkcool.github.io/plugins.en.html) ｜ [CSV 数据](https://leenkcool.github.io/plugins.csv)）
 
 ## 分类索引
@@ -31,14 +31,14 @@
 - **utility** — 375 个仓库，★66624
 - **session** — 236 个仓库，★27296
 - **skills** — 53 个仓库，★25583
-- **tools** — 625 个仓库，★22890
+- **tools** — 626 个仓库，★22891
 - **orchestration** — 200 个仓库，★18855
 - **ui** — 209 个仓库，★15331
 - **uncategorized** — 1 个仓库，★3779
 - **sandbox** — 12 个仓库，★743
 - **acp** — 65 个仓库，★718
 - **memory** — 7 个仓库，★132
-- **skin** — 9 个仓库，★38
+- **skin** — 11 个仓库，★40
 - **preset** — 2 个仓库，★4
 - **notify** — 1 个仓库，★2
 
@@ -895,7 +895,7 @@
 | [kuailexiaozixin/tkinter-desktop](https://github.com/kuailexiaozixin/tkinter-desktop) | Tkinter/ttk 原生桌面应用全生命周期技能（MVC + pygubu .ui + SQLite + PyInstaller） | A full-lifecycle skill for native Tkinter/ttk desktop apps (MVC + pygubu .ui + SQLite + Py | 0 | Python | no |
 | [kuailexiaozixin/fasthtml-desktop](https://github.com/kuailexiaozixin/fasthtml-desktop) | FastHTML + pywebview 桌面应用全生命周期技能（本地 HTTP + WebView2 + PyInstaller） | A full-lifecycle skill for FastHTML + pywebview desktop apps (local HTTP + WebView2 + PyIn | 0 | Python | no |
 
-### tools（625）
+### tools（626）
 
 | 仓库 | 意图(中文) | Intent(English) | STAR | 语言 | 真DSH |
 |---|---|---|---|---|---|
@@ -1497,6 +1497,7 @@
 | [wannanbigpig/dsh-usage-stats](https://github.com/wannanbigpig/dsh-usage-stats) | DeepSeek Harness web 用量与计费插件：官方余额、Token 用量、贡献热图与按小时计费统计。 | Balance, token usage, contribution heatmap & per-hour cost stats for dsh web. | 1 | JavaScript | yes |
 | [Shizuku-keop/dsh-plugin-console](https://github.com/Shizuku-keop/dsh-plugin-console) | Cordis 插件期望状态对账器：解决「重启后插件不加载」。plugins.intent.json 声明期望插件集合（放 profile 外），dsh-plugin-sync CL | Cordis plugin desired-state reconciler: fixes plugins that silently fail to load after res | 1 | JavaScript | yes |
 | [Shizuku-keop/dsh-launch-doctor](https://github.com/Shizuku-keop/dsh-launch-doctor) | 零依赖 dsh web 启动诊断 CLI：五项检查（Node 版本区间——标记 24.0-24.11.1 启动失败族；loader resolveSync 形状探测——--expo | Zero-dependency dsh web launch diagnostics CLI: five checks (Node version range flags 24.0 | 1 | JavaScript | no |
+| [busabase/busabase-dsh-plugin](https://github.com/busabase/busabase-dsh-plugin) | 通过 MCP 将 DeepSeek Harness 接入 Busabase 知识与结构化数据，搜索已批准内容、操作 Base / Record、提交 ChangeRequest，并 | Connects DeepSeek Harness to Busabase knowledge and structured data over MCP: search appro | 1 | TypeScript | yes |
 | [AtomicsLaboratory/atomstudio](https://github.com/AtomicsLaboratory/atomstudio) | 可执行文档工程环境 | Document engineering environment for executable documents | 0 | JavaScript | no |
 | [omdsh-dev/Qwen-MM-Plugins](https://github.com/omdsh-dev/Qwen-MM-Plugins) | Qwen-MM-Plugins 支持 | Qwen-MM-Plugins support | 0 | TypeScript | yes |
 | [Mingxi2077/dsh-plugin-review](https://github.com/Mingxi2077/dsh-plugin-review) | dsh-plugin-review — DSH 插件（工具） | dsh-plugin-review — a DSH plugin (tool). | 0 | JavaScript | yes |
@@ -2049,7 +2050,7 @@
 | [yj-liuzepeng/dsh-project-brain](https://github.com/yj-liuzepeng/dsh-project-brain) | DSH 持久化项目大脑：分析当前工作区与语义架构，跨 Session 保存决策、变更、待办和项目记忆，并在后续对话中自动恢复上下文；默认本地检索，可选向量增强。 | A persistent project brain for DSH that analyzes the active workspace and semantic archite | 1 | JavaScript | yes |
 | [JTSDM/dsh-memory-sqlite](https://github.com/JTSDM/dsh-memory-sqlite) | DSH 原生记忆服务层：纯本地 SQLite 存储（Node 内置 node:sqlite，零 npm 依赖）+ content_hash SHA-256 幂等去重 + FTS5/ | Native memory service layer for DeepSeek Harness: zero-dependency local SQLite storage (no | 0 | TypeScript | yes |
 
-### skin（9）
+### skin（11）
 
 | 仓库 | 意图(中文) | Intent(English) | STAR | 语言 | 真DSH |
 |---|---|---|---|---|---|
@@ -2060,8 +2061,10 @@
 | [OneZero-Y/dsh-tint-theme](https://github.com/OneZero-Y/dsh-tint-theme) | DeepSeek Harness（DSH）Web 界面的皮肤选择器：内置 25 套知名开源编辑器配色主题（Gruvbox、Solarized、Dracula、Catppuccin、 | A skin picker for the DeepSeek Harness (DSH) Web GUI — 25 editor color-theme families (Gru | 3 | TypeScript | yes |
 | [Entity-Him/dsh-sky-skin](https://github.com/Entity-Him/dsh-sky-skin) | 光遇·遇境主题皮肤：星盘之上的光之子，烛火暖金与深蓝星空双主题，为 dsh WebUI 定制。 | A Sky: Children of the Light themed skin for the dsh web UI - light children on a glowing  | 2 | JavaScript | yes |
 | [OLDnana1/dsh-theme-edgerunners](https://github.com/OLDnana1/dsh-theme-edgerunners) | DSH Web 界面《赛博朋克：边缘行者》主题：以 Lucy 神经链接终端为灵感，墨黑玻璃 + 霓虹光效；HUD 八角切角输入栏（粉紫青流光边框）、David/Lucy 双气泡皮肤 | A Cyberpunk: Edgerunners theme for the DSH Web GUI, inspired by Lucy's neural-link termina | 2 | JavaScript | yes |
+| [lyh9712/dsh-bg-image](https://github.com/lyh9712/dsh-bg-image) | DSH Web 背景图插件：图片链接/本地图片、面板不透明度与磨砂模糊可调，侧边栏与聊天区半透明磨砂，设置存于浏览器，卸载零残留。 | Custom wallpaper plugin for the DSH Web GUI: image URL / local image, panel opacity and fr | 2 | JavaScript | yes |
 | [lengduan/dsh-815-skin](https://github.com/lengduan/dsh-815-skin) | Web GUI 史料皮肤：对话区陈坚油画《公元一九四五年九月九日九时》（南京受降），侧栏挂《终战诏书》。加载即生效、卸载即还原，不改会话、不调模型。 | Historical Web GUI skin: Chen Jian's 9 Sept 1945 Nanjing surrender painting as chat backdr | 1 | TypeScript | yes |
 | [youqishan/dsh-skin-3bridge](https://github.com/youqishan/dsh-skin-3bridge) | 一款DSH皮肤编辑器，支持用户自由上传自己喜欢的立绘与背景 | A DSH skin editor that allows users to freely upload their favorite character illustration | 1 | JavaScript | yes |
+| [MrmoLabs/dsh-yorha-ui](https://github.com/MrmoLabs/dsh-yorha-ui) | 面向 DeepSeek Harness Web 的 NieR:Automata / YoRHa 风格工业终端主题，提供沙色/炭黑明暗配色、直角几何与全界面统一样式，运行时无需 CD | A NieR:Automata / YoRHa-inspired industrial terminal theme for DeepSeek Harness Web, with  | 0 | TypeScript | yes |
 
 ### preset（2）
 

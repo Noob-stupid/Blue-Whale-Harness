@@ -95817,5 +95817,169 @@
   "compat": "unknown",
   "featured": false,
   "analyzed_at": "2026-09-04T01:40:47.378Z"
+ },
+ "busabase/busabase-dsh-plugin": {
+  "repo": "busabase/busabase-dsh-plugin",
+  "lists": [
+   "plugin"
+  ],
+  "dshCategory": "tools",
+  "isDshPlugin": true,
+  "dshSignals": [
+   "cordis.patch.yml",
+   "@deepseek-ai/cordis",
+   "@deepseek-ai/dsh-credentials",
+   "@deepseek-ai/dsh-host-webserver",
+   "@deepseek-ai/dsh-skill",
+   "@deepseek-ai/dsh-client-runtime",
+   "@deepseek-ai/dsh-client-ui-conversation",
+   "@deepseek-ai/dsh-client-ui-layout",
+   "@deepseek-ai/dsh-client-ui-slots",
+   "@deepseek-ai/dsh-client-ui-tool",
+   "@deepseek-ai/dsh-system-prompt",
+   "@deepseek-ai/dsh-tools",
+   "dsh-plugin-topic"
+  ],
+  "manifestType": "cordis.patch.yml",
+  "language": "TypeScript",
+  "intent": "Connects DeepSeek Harness to Busabase knowledge and structured data over MCP: search approved content, work with Bases and Records, submit ChangeRequests, and inspect results live in the conversation; writes remain human-reviewed.",
+  "intentEn": "Connects DeepSeek Harness to Busabase knowledge and structured data over MCP: search approved content, work with Bases and Records, submit ChangeRequests, and inspect results live in the conversation; writes remain human-reviewed.",
+  "intentZh": "通过 MCP 将 DeepSeek Harness 接入 Busabase 知识与结构化数据，搜索已批准内容、操作 Base / Record、提交 ChangeRequest，并在会话中渲染实时 Inspector；写入由人工审核。",
+  "zhSource": "native",
+  "enSource": "native",
+  "needsReview": false,
+  "techStack": [
+   "TypeScript",
+   "@deepseek-ai/dsh-mcp-client",
+   "@deepseek-ai/dsh-skill-filesystem",
+   "@deepseek-ai/schemastery",
+   "esm"
+  ],
+  "keyDeps": [
+   "@deepseek-ai/cordis",
+   "@deepseek-ai/dsh-credentials",
+   "@deepseek-ai/dsh-host-webserver",
+   "@deepseek-ai/dsh-skill",
+   "@deepseek-ai/dsh-client-runtime",
+   "@deepseek-ai/dsh-client-ui-conversation",
+   "@deepseek-ai/dsh-client-ui-layout",
+   "@deepseek-ai/dsh-client-ui-slots",
+   "@deepseek-ai/dsh-client-ui-tool",
+   "@deepseek-ai/dsh-system-prompt",
+   "@deepseek-ai/dsh-tools",
+   "react"
+  ],
+  "entry": null,
+  "stars": 1,
+  "forks": 0,
+  "created_at": "2026-09-02T14:21:28Z",
+  "updated_at": "2026-09-07T16:30:03Z",
+  "license": "MIT",
+  "open_issues": 0,
+  "topics": [
+   "dsh-plugin"
+  ],
+  "cloned": false,
+  "compat": "unknown",
+  "featured": false,
+  "analyzed_at": "2026-09-09T13:59:24.343Z"
+ },
+ "MrmoLabs/dsh-yorha-ui": {
+  "repo": "MrmoLabs/dsh-yorha-ui",
+  "lists": [
+   "plugin"
+  ],
+  "dshCategory": "skin",
+  "isDshPlugin": true,
+  "dshSignals": [
+   "cordis.patch.yml",
+   "dsh-plugin-topic",
+   "keyword-dsh"
+  ],
+  "manifestType": "cordis.patch.yml",
+  "language": "TypeScript",
+  "intent": "A NieR:Automata / YoRHa-inspired industrial terminal theme for DeepSeek Harness Web, with sand-and-charcoal light/dark palettes, square geometry, interface-wide styling, and no runtime CDN or image dependencies.",
+  "intentEn": "A NieR:Automata / YoRHa-inspired industrial terminal theme for DeepSeek Harness Web, with sand-and-charcoal light/dark palettes, square geometry, interface-wide styling, and no runtime CDN or image dependencies.",
+  "intentZh": "面向 DeepSeek Harness Web 的 NieR:Automata / YoRHa 风格工业终端主题，提供沙色/炭黑明暗配色、直角几何与全界面统一样式，运行时无需 CDN 或图片依赖。",
+  "zhSource": "native",
+  "enSource": "native",
+  "needsReview": false,
+  "techStack": [
+   "TypeScript",
+   "esm"
+  ],
+  "keyDeps": [],
+  "entry": null,
+  "stars": 0,
+  "forks": 0,
+  "created_at": "2026-09-07T14:14:43Z",
+  "updated_at": "2026-09-08T04:56:31Z",
+  "license": "MIT",
+  "open_issues": 0,
+  "topics": [
+   "deepseek-harness",
+   "dsh",
+   "dsh-plugin",
+   "nier-automata",
+   "typescript",
+   "ui-theme",
+   "yorha"
+  ],
+  "cloned": false,
+  "compat": "unknown",
+  "featured": false,
+  "analyzed_at": "2026-09-09T13:59:39.458Z"
+ },
+ "lyh9712/dsh-bg-image": {
+  "repo": "lyh9712/dsh-bg-image",
+  "lists": [
+   "plugin"
+  ],
+  "dshCategory": "skin",
+  "isDshPlugin": true,
+  "dshSignals": [
+   "@deepseek-ai/dsh-settings",
+   "@deepseek-ai/schemastery",
+   "@deepseek-ai/cordis"
+  ],
+  "manifestType": "none",
+  "language": "JavaScript",
+  "intent": "Custom wallpaper plugin for the DSH Web GUI: image URL / local image, panel opacity and frosted blur; translucent frosted sidebar and chat; settings persist in browser; zero-residue uninstall.",
+  "intentEn": "Custom wallpaper plugin for the DSH Web GUI: image URL / local image, panel opacity and frosted blur; translucent frosted sidebar and chat; settings persist in browser; zero-residue uninstall.",
+  "intentZh": "DSH Web 背景图插件：图片链接/本地图片、面板不透明度与磨砂模糊可调，侧边栏与聊天区半透明磨砂，设置存于浏览器，卸载零残留。",
+  "zhSource": "native",
+  "enSource": "native",
+  "needsReview": false,
+  "techStack": [
+   "JavaScript",
+   "esm"
+  ],
+  "keyDeps": [
+   "react",
+   "@deepseek-ai/dsh-settings",
+   "@deepseek-ai/schemastery",
+   "@deepseek-ai/cordis"
+  ],
+  "entry": null,
+  "stars": 2,
+  "forks": 0,
+  "created_at": "2026-08-14T03:40:32Z",
+  "updated_at": "2026-08-14T03:58:20Z",
+  "license": "MIT",
+  "open_issues": 0,
+  "topics": [
+   "background",
+   "deepseek",
+   "deepseek-harness",
+   "dsh",
+   "harness",
+   "plugin",
+   "theme",
+   "wallpaper"
+  ],
+  "cloned": false,
+  "compat": "unknown",
+  "featured": false,
+  "analyzed_at": "2026-09-09T13:59:53.659Z"
  }
 }
