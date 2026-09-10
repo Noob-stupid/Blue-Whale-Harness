@@ -95981,5 +95981,339 @@
   "compat": "unknown",
   "featured": false,
   "analyzed_at": "2026-09-09T13:59:53.659Z"
+ },
+ "wolfsonliu/dsh-file-explorer": {
+  "repo": "wolfsonliu/dsh-file-explorer",
+  "lists": [
+   "plugin"
+  ],
+  "dshCategory": "ui",
+  "isDshPlugin": true,
+  "dshSignals": [
+   "cordis.patch.yml",
+   "dsh-plugin-topic"
+  ],
+  "manifestType": "cordis.patch.yml",
+  "language": "JavaScript",
+  "intent": "A floating file-explorer panel for DSH Web — browse the workspace file tree, preview files, and extend previewers through plugins.",
+  "intentEn": "A floating file-explorer panel for DSH Web — browse the workspace file tree, preview files, and extend previewers through plugins.",
+  "intentZh": "dsh-file-explorer 是一个为 DeepSeek Harness (DSH) Web 开发的会话工作区文件浏览器插件。它解决了在对话过程中需要频繁切换到系统文件管理器查看目录结构或文件内容的痛点，让用户直接在 DSH 会话界面内浏览、预览工作区文件，无需离开聊天窗口。",
+  "zhSource": "native",
+  "enSource": "native",
+  "needsReview": false,
+  "techStack": [
+   "JavaScript",
+   "dompurify",
+   "marked",
+   "esm"
+  ],
+  "keyDeps": [],
+  "entry": null,
+  "stars": 0,
+  "forks": 0,
+  "created_at": "2026-08-15T03:02:58Z",
+  "updated_at": "2026-09-01T10:10:00Z",
+  "license": "MIT",
+  "open_issues": 0,
+  "topics": [
+   "dsh-plugin"
+  ],
+  "cloned": false,
+  "compat": "unknown",
+  "featured": false,
+  "analyzed_at": "2026-09-10T09:34:30.329Z"
+ },
+ "meyaomiao/dsh-github-workbench": {
+  "repo": "meyaomiao/dsh-github-workbench",
+  "lists": [
+   "plugin"
+  ],
+  "dshCategory": "ui",
+  "isDshPlugin": true,
+  "dshSignals": [
+   "cordis.patch.yml",
+   "dsh-plugin-topic",
+   "keyword-dsh"
+  ],
+  "manifestType": "cordis.patch.yml",
+  "language": "TypeScript",
+  "intent": "A DeepSeek Harness GitHub workbench: repo tree, Issues/PRs/Actions, create/comment/merge/rerun CI. Mounts as a better-sidebar tab or a standalone drawer.",
+  "intentEn": "A DeepSeek Harness GitHub workbench: repo tree, Issues/PRs/Actions, create/comment/merge/rerun CI. Mounts as a better-sidebar tab or a standalone drawer.",
+  "intentZh": "DeepSeek Harness 侧栏 GitHub 工作台：仓库目录树、Issues / PR / Actions，支持建单、评论、合并与重跑 CI；可挂 better-sidebar 页签或独立面板。",
+  "zhSource": "native",
+  "enSource": "native",
+  "needsReview": false,
+  "techStack": [
+   "TypeScript",
+   "esm"
+  ],
+  "keyDeps": [],
+  "entry": null,
+  "stars": 3,
+  "forks": 0,
+  "created_at": "2026-08-26T07:30:33Z",
+  "updated_at": "2026-09-07T05:08:04Z",
+  "license": "MIT",
+  "open_issues": 2,
+  "topics": [
+   "deepseek-harness",
+   "dsh-better-sidebar",
+   "dsh-plugin",
+   "github",
+   "sidebar"
+  ],
+  "cloned": false,
+  "compat": "unknown",
+  "featured": false,
+  "analyzed_at": "2026-09-10T09:34:45.536Z"
+ },
+ "meyaomiao/dsh-server-deck": {
+  "repo": "meyaomiao/dsh-server-deck",
+  "lists": [
+   "plugin"
+  ],
+  "dshCategory": "ui",
+  "isDshPlugin": true,
+  "dshSignals": [
+   "cordis.patch.yml",
+   "@deepseek-ai/dsh-host-webserver",
+   "dsh-plugin-topic",
+   "keyword-dsh"
+  ],
+  "manifestType": "cordis.patch.yml",
+  "language": "TypeScript",
+  "intent": "A DeepSeek Harness server card dashboard: status, CPU/memory/disk, trends, and one-click xterm over SSH. Mounts as a sidebar tab or standalone drawer.",
+  "intentEn": "A DeepSeek Harness server card dashboard: status, CPU/memory/disk, trends, and one-click xterm over SSH. Mounts as a sidebar tab or standalone drawer.",
+  "intentZh": "DeepSeek Harness 服务器卡片仪表盘：在线状态、CPU / 内存 / 磁盘、趋势图，一点进入 xterm 终端；可挂侧栏页签或独立抽屉。",
+  "zhSource": "native",
+  "enSource": "native",
+  "needsReview": false,
+  "techStack": [
+   "TypeScript",
+   "ssh2",
+   "ws",
+   "esm"
+  ],
+  "keyDeps": [
+   "@deepseek-ai/dsh-host-webserver"
+  ],
+  "entry": null,
+  "stars": 4,
+  "forks": 0,
+  "created_at": "2026-08-26T09:22:51Z",
+  "updated_at": "2026-09-08T15:33:25Z",
+  "license": "MIT",
+  "open_issues": 0,
+  "topics": [
+   "dashboard",
+   "deepseek-harness",
+   "dsh-better-sidebar",
+   "dsh-plugin",
+   "ssh",
+   "terminal"
+  ],
+  "cloned": false,
+  "compat": "unknown",
+  "featured": false,
+  "analyzed_at": "2026-09-10T09:35:00.944Z"
+ },
+ "meyaomiao/dsh-files-native": {
+  "repo": "meyaomiao/dsh-files-native",
+  "lists": [
+   "plugin"
+  ],
+  "dshCategory": "ui",
+  "isDshPlugin": true,
+  "dshSignals": [
+   "cordis.patch.yml",
+   "dsh-plugin-topic",
+   "keyword-dsh"
+  ],
+  "manifestType": "cordis.patch.yml",
+  "language": "TypeScript",
+  "intent": "A DeepSeek Harness attachment plugin: drag, paste, or paperclip. Images and files share the native composer rail as thumbnails and file cards.",
+  "intentEn": "A DeepSeek Harness attachment plugin: drag, paste, or paperclip. Images and files share the native composer rail as thumbnails and file cards.",
+  "intentZh": "DeepSeek Harness 附件上传：拖入 / 粘贴 / 回形针，图片缩略图与文件卡混排在官方输入框同一条轨。",
+  "zhSource": "native",
+  "enSource": "native",
+  "needsReview": false,
+  "techStack": [
+   "TypeScript",
+   "esm"
+  ],
+  "keyDeps": [],
+  "entry": null,
+  "stars": 2,
+  "forks": 0,
+  "created_at": "2026-08-30T06:25:00Z",
+  "updated_at": "2026-09-07T10:12:32Z",
+  "license": "MIT",
+  "open_issues": 4,
+  "topics": [
+   "deepseek-harness",
+   "dsh",
+   "dsh-plugin"
+  ],
+  "cloned": false,
+  "compat": "unknown",
+  "featured": false,
+  "analyzed_at": "2026-09-10T09:35:16.108Z"
+ },
+ "meyaomiao/dsh-oauthpro": {
+  "repo": "meyaomiao/dsh-oauthpro",
+  "lists": [
+   "plugin"
+  ],
+  "dshCategory": "llm",
+  "isDshPlugin": true,
+  "dshSignals": [
+   "cordis.patch.yml",
+   "readme-mentions-dsh"
+  ],
+  "manifestType": "cordis.patch.yml",
+  "language": "JavaScript",
+  "intent": "A DeepSeek Harness provider account-pool and quota plugin for Codex, Claude, Cursor, Grok and more: live model catalog, balance/quota, composer chip.",
+  "intentEn": "A DeepSeek Harness provider account-pool and quota plugin for Codex, Claude, Cursor, Grok and more: live model catalog, balance/quota, composer chip.",
+  "intentZh": "DeepSeek Harness 多厂商账号池与额度插件：Codex / Claude / Cursor / Grok 等，实时模型目录与余额；输入栏 chip 管理订阅。",
+  "zhSource": "native",
+  "enSource": "native",
+  "needsReview": false,
+  "techStack": [
+   "JavaScript",
+   "@deepseek-ai/dsh-api-remotes",
+   "@deepseek-ai/dsh-client-ui-conversation",
+   "@deepseek-ai/dsh-client-ui-model-selection",
+   "esm"
+  ],
+  "keyDeps": [],
+  "entry": null,
+  "stars": 0,
+  "forks": 0,
+  "created_at": "2026-09-05T10:45:19Z",
+  "updated_at": "2026-09-07T08:28:35Z",
+  "license": "MIT",
+  "open_issues": 0,
+  "topics": [],
+  "cloned": false,
+  "compat": "unknown",
+  "featured": false,
+  "analyzed_at": "2026-09-10T09:35:31.458Z"
+ },
+ "meyaomiao/dsh-graphmemory": {
+  "repo": "meyaomiao/dsh-graphmemory",
+  "lists": [
+   "plugin"
+  ],
+  "dshCategory": "memory",
+  "isDshPlugin": true,
+  "dshSignals": [
+   "cordis.patch.yml",
+   "@deepseek-ai/cordis",
+   "@deepseek-ai/dsh-typert-protocol",
+   "dsh-plugin-topic",
+   "keyword-dsh"
+  ],
+  "manifestType": "cordis.patch.yml",
+  "language": "TypeScript",
+  "intent": "Knowledge-graph memory for DeepSeek Harness: extract triples from conversations, recall across sessions, compress context. Also works with OpenClaw.",
+  "intentEn": "Knowledge-graph memory for DeepSeek Harness: extract triples from conversations, recall across sessions, compress context. Also works with OpenClaw.",
+  "intentZh": "DeepSeek Harness 知识图谱记忆：从对话抽取结构化三元组，跨会话召回，压缩上下文；也可用于 OpenClaw。",
+  "zhSource": "native",
+  "enSource": "native",
+  "needsReview": false,
+  "techStack": [
+   "TypeScript",
+   "@sinclair/typebox",
+   "esm"
+  ],
+  "keyDeps": [
+   "@deepseek-ai/cordis",
+   "@deepseek-ai/dsh-typert-protocol",
+   "openclaw"
+  ],
+  "entry": null,
+  "stars": 0,
+  "forks": 0,
+  "created_at": "2026-09-04T02:36:28Z",
+  "updated_at": "2026-09-07T01:29:02Z",
+  "license": "MIT",
+  "open_issues": 2,
+  "topics": [
+   "agent-memory",
+   "deepseek-harness",
+   "dsh-plugin",
+   "knowledge-graph"
+  ],
+  "cloned": false,
+  "compat": "unknown",
+  "featured": false,
+  "analyzed_at": "2026-09-10T09:35:47.114Z"
+ },
+ "bingaha/dsh-live-mcp": {
+  "repo": "bingaha/dsh-live-mcp",
+  "lists": [
+   "plugin"
+  ],
+  "dshCategory": "ui",
+  "isDshPlugin": true,
+  "dshSignals": [
+   "cordis.patch.yml",
+   "@deepseek-ai/dsh-client-connection",
+   "@deepseek-ai/dsh-client-locale",
+   "@deepseek-ai/dsh-client-runtime",
+   "@deepseek-ai/dsh-client-ui-settings",
+   "@deepseek-ai/dsh-client-ui-conversation",
+   "@deepseek-ai/dsh-client-ui-settings-plugins",
+   "@deepseek-ai/dsh-client-ui-slots",
+   "@deepseek-ai/dsh-host-webserver",
+   "@deepseek-ai/dsh-mcp-client",
+   "@deepseek-ai/dsh-settings",
+   "@deepseek-ai/dsh-system-prompt",
+   "@deepseek-ai/dsh-tools",
+   "dsh-plugin-topic"
+  ],
+  "manifestType": "cordis.patch.yml",
+  "language": "TypeScript",
+  "intent": "Session-scoped MCP control plugin for the DSH web GUI: toggle MCP servers per conversation with effect on the next turn; manage MCP servers over real connections (stdio/streamable-http) with a capability status bar.",
+  "intentEn": "Session-scoped MCP control plugin for the DSH web GUI: toggle MCP servers per conversation with effect on the next turn; manage MCP servers over real connections (stdio/streamable-http) with a capability status bar.",
+  "intentZh": "DSH Web GUI 会话级 MCP 控制插件：在任意对话中按会话启停 MCP，下一轮即刻生效；支持 MCP 服务器管理（stdio/streamable-http 真实连接），输入框上方设能力状态条。",
+  "zhSource": "native",
+  "enSource": "native",
+  "needsReview": false,
+  "techStack": [
+   "TypeScript",
+   "schemastery",
+   "esm"
+  ],
+  "keyDeps": [
+   "@deepseek-ai/dsh-client-connection",
+   "@deepseek-ai/dsh-client-locale",
+   "@deepseek-ai/dsh-client-runtime",
+   "@deepseek-ai/dsh-client-ui-settings",
+   "@deepseek-ai/dsh-client-ui-conversation",
+   "@deepseek-ai/dsh-client-ui-settings-plugins",
+   "@deepseek-ai/dsh-client-ui-slots",
+   "@deepseek-ai/dsh-host-webserver",
+   "@deepseek-ai/dsh-mcp-client",
+   "@deepseek-ai/dsh-settings",
+   "@deepseek-ai/dsh-system-prompt",
+   "@deepseek-ai/dsh-tools",
+   "react",
+   "react-dom"
+  ],
+  "entry": null,
+  "stars": 1,
+  "forks": 0,
+  "created_at": "2026-08-19T05:58:38Z",
+  "updated_at": "2026-09-10T07:13:01Z",
+  "license": "MIT",
+  "open_issues": 0,
+  "topics": [
+   "dsh-plugin"
+  ],
+  "cloned": false,
+  "compat": "unknown",
+  "featured": false,
+  "analyzed_at": "2026-09-10T09:36:02.852Z"
  }
 }

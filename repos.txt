@@ -1981,3 +1981,10 @@ CMSKL/dsh-plugin-observatory
 busabase/busabase-dsh-plugin
 MrmoLabs/dsh-yorha-ui
 lyh9712/dsh-bg-image
+wolfsonliu/dsh-file-explorer
+meyaomiao/dsh-github-workbench
+meyaomiao/dsh-server-deck
+meyaomiao/dsh-files-native
+meyaomiao/dsh-oauthpro
+meyaomiao/dsh-graphmemory
+bingaha/dsh-live-mcp
