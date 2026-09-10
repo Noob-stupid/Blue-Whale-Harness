@@ -17,6 +17,7 @@
 > 收录标准：仓库含 `cordis.patch.yml` 判为**真·DSH 插件**，其余按「相关生态」单独标记，两者都进表、不混算。
 
 
+![微信群](https://leenkcool.github.io/wechat.jpg)
 ![频道](https://leenkcool.github.io/pindaoh.png)
 
 ## 统计
