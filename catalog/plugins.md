@@ -1,6 +1,6 @@
 # Blue-Whale-Harness · DSH 插件总表（中英双语意图）
 
-> 自动生成于 2026-09-10 ｜ 共 **1970** 个仓库 ｜ 真·DSH 插件 **1831** 个 ｜ 已克隆 **1778** 个 ｜ 源码总体积 **6119.6MB**（不含 .git）
+> 自动生成于 2026-09-12 ｜ 共 **1972** 个仓库 ｜ 真·DSH 插件 **1832** 个 ｜ 已克隆 **1778** 个 ｜ 源码总体积 **6119.6MB**（不含 .git）
 
 | 仓库 | 意图(中文) | Intent(English) | 分类 | 真DSH | 语言 | STAR | FORK | 大小 | 创建 | 更新 | License | 兼容 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 补位 DSH 官方 TUI 空缺的终端界面，Claude Code 风格全屏交互。 | Terminal TUI filling DSH's gap — Claude Code-style fullscreen CLI. | utility | yes | TypeScript | 2624 | 39 | 7.9MB | 2026-08-13 | 2026-08-15 | MIT | unknown |
 | [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market) | The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市 | The plugin marketplace built into DeepSeek Harness — browse, search, and one-click install | utility | yes | TypeScript | 2606 | 7 | 2.2MB | 2026-08-14 | 2026-08-15 | unknown | unknown |
 | [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) | DSH Web 鲸鱼娘皮肤系列（深海女仆工坊） | DSH Web whale-girl skin series | ui | yes | TypeScript | 1769 | 22 | 7.4MB | 2026-08-13 | 2026-08-15 | unknown | unknown |
+| [DSH-EAC/DSH-Desktop-EAC](https://github.com/DSH-EAC/DSH-Desktop-EAC) | DeepSeek Harness 桌面客户端 —— 内置 Node.js 与 dsh CLI，一键启动、即开即用。10 套内置 UI 皮肤，插件市场、Skills 与 MCP 深度 | DeepSeek Harness Official Desktop Client — Built-in Node.js and dsh CLI, one-click startup | tools | no | JavaScript | 1643 | 62 |  | 2026-08-14 | 2026-09-12 | MIT | unknown |
 | [hyhmrright/brooks-lint](https://github.com/hyhmrright/brooks-lint) | 基于 12 本经典工程书籍的 AI 代码审查——带引用出处、严重等级与 6 种分析模式的腐化风险诊断…… | AI code reviews grounded in 12 classic engineering books — decay risk diagnostics with boo | tools | yes | JavaScript | 1422 | 62 | 2.2MB | 2026-03-26 | 2026-08-15 | MIT | unknown |
 | [AdamPlatin123/awesome-dsh-plugins](https://github.com/AdamPlatin123/awesome-dsh-plugins) | DSH 插件目录，带每日兼容性跟踪 | DSH plugin directory with daily compatibility tracking | utility | yes | Python | 1416 | 68 | 4.2MB | 2026-08-04 | 2026-08-15 | MIT | unknown |
 | [zouyuxuan122/Deepseek-Harness-EAC](https://github.com/zouyuxuan122/Deepseek-Harness-EAC) | DeepSeek Harness 的 Windows/Linux 桌面端「揽尽万象 EAC」：内置 Node 运行时与完整 dsh CLI 内核，一键启动，内置 10 套 UI 主 | Windows/Linux desktop client for DeepSeek Harness (EAC = Embracing All Creation): bundled  | utility | yes | JavaScript | 1371 | 42 |  | 2026-08-14 | 2026-08-24 | none | unknown |
@@ -1973,4 +1974,5 @@
 | [wolfsonliu/dsh-file-explorer](https://github.com/wolfsonliu/dsh-file-explorer) | dsh-file-explorer 是一个为 DeepSeek Harness (DSH) Web 开发的会话工作区文件浏览器插件。它解决了在对话过程中需要频繁切换到系统文件管理器 | A floating file-explorer panel for DSH Web — browse the workspace file tree, preview files | ui | yes | JavaScript | 0 | 0 |  | 2026-08-15 | 2026-09-01 | MIT | unknown |
 | [meyaomiao/dsh-oauthpro](https://github.com/meyaomiao/dsh-oauthpro) | DeepSeek Harness 多厂商账号池与额度插件：Codex / Claude / Cursor / Grok 等，实时模型目录与余额；输入栏 chip 管理订阅。 | A DeepSeek Harness provider account-pool and quota plugin for Codex, Claude, Cursor, Grok  | llm | yes | JavaScript | 0 | 0 |  | 2026-09-05 | 2026-09-07 | MIT | unknown |
 | [meyaomiao/dsh-graphmemory](https://github.com/meyaomiao/dsh-graphmemory) | DeepSeek Harness 知识图谱记忆：从对话抽取结构化三元组，跨会话召回，压缩上下文；也可用于 OpenClaw。 | Knowledge-graph memory for DeepSeek Harness: extract triples from conversations, recall ac | memory | yes | TypeScript | 0 | 0 |  | 2026-09-04 | 2026-09-07 | MIT | unknown |
+| [LAYZR114/dsh-project-memory](https://github.com/LAYZR114/dsh-project-memory) | 北极星记忆（dsh-polaris-memory）：DeepSeek Harness 本地优先的项目记忆插件。每个项目一份 .dsh-memory.json（按 cwd 隔离），提 | Local-first project memory for DeepSeek Harness: one .dsh-memory.json per project; read/re | memory | yes | JavaScript | 0 | 0 |  | 2026-09-09 | 2026-09-09 | BSD-3-Clause | unknown |
 | [gxx950224/SapBuddy-dsh](https://github.com/gxx950224/SapBuddy-dsh) | SapBuddy-dsh | SapBuddy-dsh | tools | yes | TypeScript | 3 | 0 | 1.1MB | 2026-08-14 | 2026-08-14 | MIT | unknown |

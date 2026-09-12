@@ -1988,3 +1988,5 @@ meyaomiao/dsh-files-native
 meyaomiao/dsh-oauthpro
 meyaomiao/dsh-graphmemory
 bingaha/dsh-live-mcp
+LAYZR114/dsh-project-memory
+DSH-EAC/DSH-Desktop-EAC

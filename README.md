@@ -1,12 +1,12 @@
 # Blue-Whale-Harness
 
-[![Stars](https://img.shields.io/github/stars/leenkcool/Blue-Whale-Harness?style=flat-square)](https://github.com/leenkcool/Blue-Whale-Harness/stargazers) [![License](https://img.shields.io/badge/license-Apache--2.0-blue?style=flat-square)](./LICENSE) [![Last commit](https://img.shields.io/github/last-commit/leenkcool/Blue-Whale-Harness?style=flat-square)](https://github.com/leenkcool/Blue-Whale-Harness/commits/main) [![Plugins](https://img.shields.io/badge/repos-1970-orange?style=flat-square)](https://leenkcool.github.io) [![Online catalog](https://img.shields.io/badge/site-leenkool.github.io-brightgreen?style=flat-square)](https://leenkcool.github.io)
+[![Stars](https://img.shields.io/github/stars/leenkcool/Blue-Whale-Harness?style=flat-square)](https://github.com/leenkcool/Blue-Whale-Harness/stargazers) [![License](https://img.shields.io/badge/license-Apache--2.0-blue?style=flat-square)](./LICENSE) [![Last commit](https://img.shields.io/github/last-commit/leenkcool/Blue-Whale-Harness?style=flat-square)](https://github.com/leenkcool/Blue-Whale-Harness/commits/main) [![Plugins](https://img.shields.io/badge/repos-1972-orange?style=flat-square)](https://leenkcool.github.io) [![Online catalog](https://img.shields.io/badge/site-leenkool.github.io-brightgreen?style=flat-square)](https://leenkcool.github.io)
 
 > **DeepSeek Harness（DSH）插件总目录** — 收录 GitHub 上散落各处的 DSH 插件、Skill、MCP Server 与周边工具，逐个校验「是否为真插件」，并做成可搜索、可筛选、可导出的在线总表。
 
 🌐 **在线总表：[leenkcool.github.io](https://leenkcool.github.io)** — 中英文搜索、分类筛选、按 STAR 排序、CSV 导出。
 
-> 自动生成于 2026-09-10 ｜ 共 **1970** 个仓库 ｜ 真·DSH 插件 **1831** 个 | QQ Group:839509497 |Tg Group: [http://t.me/deepseekdsh](http://t.me/deepseekdsh)
+> 自动生成于 2026-09-12 ｜ 共 **1972** 个仓库 ｜ 真·DSH 插件 **1832** 个 | QQ Group:839509497 |Tg Group: [http://t.me/deepseekdsh](http://t.me/deepseekdsh)
 
 ### 怎么用
 
@@ -22,8 +22,8 @@
 
 ## 统计
 
-- 仓库总数：**1970**
-- 真·DSH 插件：**1831**
+- 仓库总数：**1972**
+- 真·DSH 插件：**1832**
 - 在线浏览：https://leenkcool.github.io （[中文版](https://leenkcool.github.io/plugins.zh.html) ｜ [English](https://leenkcool.github.io/plugins.en.html) ｜ [CSV 数据](https://leenkcool.github.io/plugins.csv)）
 
 ## 分类索引
@@ -32,13 +32,13 @@
 - **utility** — 375 个仓库，★66624
 - **session** — 236 个仓库，★27296
 - **skills** — 53 个仓库，★25583
-- **tools** — 626 个仓库，★22891
+- **tools** — 627 个仓库，★24534
 - **orchestration** — 200 个仓库，★18855
 - **ui** — 214 个仓库，★15341
 - **uncategorized** — 1 个仓库，★3779
 - **sandbox** — 12 个仓库，★743
 - **acp** — 65 个仓库，★718
-- **memory** — 8 个仓库，★132
+- **memory** — 9 个仓库，★132
 - **skin** — 11 个仓库，★40
 - **preset** — 2 个仓库，★4
 - **notify** — 1 个仓库，★2
@@ -897,13 +897,14 @@
 | [kuailexiaozixin/tkinter-desktop](https://github.com/kuailexiaozixin/tkinter-desktop) | Tkinter/ttk 原生桌面应用全生命周期技能（MVC + pygubu .ui + SQLite + PyInstaller） | A full-lifecycle skill for native Tkinter/ttk desktop apps (MVC + pygubu .ui + SQLite + Py | 0 | Python | no |
 | [kuailexiaozixin/fasthtml-desktop](https://github.com/kuailexiaozixin/fasthtml-desktop) | FastHTML + pywebview 桌面应用全生命周期技能（本地 HTTP + WebView2 + PyInstaller） | A full-lifecycle skill for FastHTML + pywebview desktop apps (local HTTP + WebView2 + PyIn | 0 | Python | no |
 
-### tools（626）
+### tools（627）
 
 | 仓库 | 意图(中文) | Intent(English) | STAR | 语言 | 真DSH |
 |---|---|---|---|---|---|
 | [crafter-station/petdex](https://github.com/crafter-station/petdex) | Codex、Claude Code、OpenCode 与 Gemini CLI 的动画桌宠公共图库 | A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCo | 3983 | TypeScript | no |
 | [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw) | 跨平台 AI 内容发现 Agent（B站/小红书/抖音等） | Cross-platform AI content discovery agent (Bilibili/XHS/Douyin…) | 3066 | Python | yes |
 | [imsai-sh/zhuzhiliao](https://github.com/imsai-sh/zhuzhiliao) | 竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。 | Bamboo Cicada — a traditional spinning toy that buzzes when turned, recreated as a zero-de | 2870 | HTML | yes |
+| [DSH-EAC/DSH-Desktop-EAC](https://github.com/DSH-EAC/DSH-Desktop-EAC) | DeepSeek Harness 桌面客户端 —— 内置 Node.js 与 dsh CLI，一键启动、即开即用。10 套内置 UI 皮肤，插件市场、Skills 与 MCP 深度 | DeepSeek Harness Official Desktop Client — Built-in Node.js and dsh CLI, one-click startup | 1643 | JavaScript | no |
 | [hyhmrright/brooks-lint](https://github.com/hyhmrright/brooks-lint) | 基于 12 本经典工程书籍的 AI 代码审查——带引用出处、严重等级与 6 种分析模式的腐化风险诊断…… | AI code reviews grounded in 12 classic engineering books — decay risk diagnostics with boo | 1422 | JavaScript | yes |
 | [xmanrui/dsh-im](https://github.com/xmanrui/dsh-im) | 通过扫码、App Manifest 或机器人凭据把 IM 机器人接入 DeepSeek Harness：一个插件统一管理飞书、微信、钉钉、企业微信、QQ、Slack、Telegra | Connect IM bots to DeepSeek Harness via QR code, App Manifest or bot credentials: one plug | 910 | JavaScript | yes |
 | [shaobeichen/dsh-pocket](https://github.com/shaobeichen/dsh-pocket) | 把 DeepSeek Harness 装进口袋：电脑上跑 dsh web，手机扫码即同步访问同一界面，支持局域网与公网穿透、实时同屏。 | Put DeepSeek Harness in your pocket: run dsh web on your computer and mirror it to your ph | 721 | JavaScript | yes |
@@ -2045,7 +2046,7 @@
 | [Lehmaning/dsh-randomuuid-polyfill](https://github.com/Lehmaning/dsh-randomuuid-polyfill) | 在不安全来源（局域网明文 HTTP）上安装 crypto.randomUUID 的 dsh 客户端插件 | dsh client plugin that installs crypto.randomUUID on insecure origins (plain HTTP over a L | 0 | TypeScript | yes |
 | [Zenjibad/dsh-lan-uuid-fix](https://github.com/Zenjibad/dsh-lan-uuid-fix) | dsh 捆绑包：在不安全来源上 polyfill crypto.randomUUID，使 DeepSeek Harness Web UI 可在明文 HTTP 局域网上工作 | dsh bundle: polyfill crypto.randomUUID on insecure origins so the DeepSeek Harness Web UI  | 0 | JavaScript | yes |
 
-### memory（8）
+### memory（9）
 
 | 仓库 | 意图(中文) | Intent(English) | STAR | 语言 | 真DSH |
 |---|---|---|---|---|---|
@@ -2057,6 +2058,7 @@
 | [yj-liuzepeng/dsh-project-brain](https://github.com/yj-liuzepeng/dsh-project-brain) | DSH 持久化项目大脑：分析当前工作区与语义架构，跨 Session 保存决策、变更、待办和项目记忆，并在后续对话中自动恢复上下文；默认本地检索，可选向量增强。 | A persistent project brain for DSH that analyzes the active workspace and semantic archite | 1 | JavaScript | yes |
 | [JTSDM/dsh-memory-sqlite](https://github.com/JTSDM/dsh-memory-sqlite) | DSH 原生记忆服务层：纯本地 SQLite 存储（Node 内置 node:sqlite，零 npm 依赖）+ content_hash SHA-256 幂等去重 + FTS5/ | Native memory service layer for DeepSeek Harness: zero-dependency local SQLite storage (no | 0 | TypeScript | yes |
 | [meyaomiao/dsh-graphmemory](https://github.com/meyaomiao/dsh-graphmemory) | DeepSeek Harness 知识图谱记忆：从对话抽取结构化三元组，跨会话召回，压缩上下文；也可用于 OpenClaw。 | Knowledge-graph memory for DeepSeek Harness: extract triples from conversations, recall ac | 0 | TypeScript | yes |
+| [LAYZR114/dsh-project-memory](https://github.com/LAYZR114/dsh-project-memory) | 北极星记忆（dsh-polaris-memory）：DeepSeek Harness 本地优先的项目记忆插件。每个项目一份 .dsh-memory.json（按 cwd 隔离），提 | Local-first project memory for DeepSeek Harness: one .dsh-memory.json per project; read/re | 0 | JavaScript | yes |
 
 ### skin（11）
 
